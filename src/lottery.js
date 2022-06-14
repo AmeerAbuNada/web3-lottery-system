@@ -1,8 +1,8 @@
 import web3 from './web3';
 
-const address = '0x298640d62dc3dbbe9ffe0af69ddc6c001bc918d9';
+const address = '0x298640d62dc3dbbe9ffe0af69ddc6c001bc918d9'; //contract's address
 
-const abi = [
+const abi = [ //contract's abi
 	{
 		"inputs": [],
 		"name": "enter",
